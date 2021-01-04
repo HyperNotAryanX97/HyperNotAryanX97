@@ -10,7 +10,7 @@
 
 ## My username of telgram = ![](https://img.shields.io/badge/@Mellowxd-green)
 
-## 🔭 I’m currently working on = [https://github.com/ahirearyan2/HyperUserBot-X](HyperUserBot-X)
+## 🔭 I’m currently working on = [HyperUserBot-X](https://github.com/ahirearyan2/HyperUserBot-X)
 
 ## I’m currently learning = [https://www.python.org](Python)
 
