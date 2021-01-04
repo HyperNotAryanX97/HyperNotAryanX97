@@ -14,6 +14,8 @@
 
 ## I’m currently learning = [Python](https://www.python.org)
 
+## Pronouns: = [](Sad=Sed || Nice=Noicee || life=lyf || My=moi || Anything Else ???)
+
 ![My status](https://github-readme-stats.vercel.app/api?username=ahirearyan2&show_icons=true&theme=tokyonight)
 
 </body>
