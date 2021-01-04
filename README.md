@@ -1,6 +1,6 @@
 <html>
   
-# Hellow Viewers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hellow User Who IZ Seeking My Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 # My information 📜
 
@@ -10,7 +10,7 @@
 
 ## My username of telgram = ![](https://img.shields.io/badge/@UNKNOWN_MEMBER_69-green)
 
-## 🔭 I’m currently working on = [HyperUserBot-X](https://github.com/ahirearyan2/HyperUserBot-X)
+## I’m currently working on = [HyperUserBot-X](https://github.com/ahirearyan2/HyperUserBot-X)
 
 ## I’m currently learning = [Python](https://www.python.org)
 
