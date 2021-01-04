@@ -4,15 +4,15 @@
 
 # My information 📜
 
-## Me is a = ![](https://img.shields.io/badge/-student🤓🤓-neon green)
+## Me is a = ![](https://img.shields.io/badge/-student🤓🤓-neongreen)
 
 ## Me is from = ![](https://img.shields.io/badge/-India😁😁-black)
 
-## My username of telgram = ![](https://img.shields.io/badge/@Mellowxd-green)
+## My username of telgram = ![](https://img.shields.io/badge/@UNKNOWN_MEMBER_69-green)
 
 ## 🔭 I’m currently working on = [HyperUserBot-X](https://github.com/ahirearyan2/HyperUserBot-X)
 
-## I’m currently learning = [https://www.python.org](Python)
+## I’m currently learning = [Python](https://www.python.org)
 
 ![My status](https://github-readme-stats.vercel.app/api?username=ahirearyan2&show_icons=true&theme=tokyonight)
 
