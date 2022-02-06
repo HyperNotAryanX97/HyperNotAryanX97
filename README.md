@@ -2,7 +2,7 @@
   
 # Hellow User Who IZ Seeking My Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-![My status](https://github-readme-stats.vercel.app/api?username=ahirearyan2&show_icons=true&theme=tokyonight)
+![My status](https://github-readme-stats.vercel.app/api?username=HyperNotAryanX97&show_icons=true&theme=tokyonight)
 
 # My information 📜
 
@@ -10,10 +10,10 @@
 
 ## Me is from = ![](https://img.shields.io/badge/-India😁😁-black)
 
-## My username of telgram = ![](https://img.shields.io/badge/@UNKNOWN_MEMBER_69-neonpink)
+## My username of telgram = ![](https://img.shields.io/badge/@HyperNotAryanx97-neonpink)
 
 ## I’m currently working on = 
-DED FOR NOW || HyperUserBot-X(https://github.com/ahirearyan2/HyperUserBot-X)
+DED FOR NOW || HyperUserBot-X(https://github.com/HyperNotAryanX97/HyperUserBot-X)
 
 ## I’m currently learning = [Python](https://www.python.org)
 
