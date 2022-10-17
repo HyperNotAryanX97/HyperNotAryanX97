@@ -1,24 +1,10 @@
 <html>
   
-# Hellow User Who IZ Seeking My Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hello User Who is Seeking My Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 ![My status](https://github-readme-stats.vercel.app/api?username=HyperNotAryanX97&show_icons=true&theme=tokyonight)
 
 # My information 📜
-
-## Me is a = ![](https://img.shields.io/badge/-student🤓🤓-neongreen)
-
-## Me is from = ![](https://img.shields.io/badge/-India😁😁-black)
-
-## My username of telgram = ![](https://img.shields.io/badge/@HyperNotAryanx97-neonpink)
-
-## I’m currently working on = 
-DED FOR NOW || HyperUserBot-X(https://github.com/HyperNotAryanX97/HyperUserBot-X)
-
-## I’m currently learning = [Python](https://www.python.org)
-
-## Moi Pronouns = Sad-Sed || Nice-Noicee || life-lyf || My-moi || Anything Else ???
-
 
 </body>
 
@@ -27,7 +13,7 @@ DED FOR NOW || HyperUserBot-X(https://github.com/HyperNotAryanX97/HyperUserBot-X
 
 
 <!--
-**ahirearyan2/ahirearyan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HyperNotAryanX97/HyperNotAryanX97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
