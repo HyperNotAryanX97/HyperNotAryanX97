@@ -3,9 +3,6 @@
 # Hello User Who is Seeking My Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 ![My status](https://github-readme-stats.vercel.app/api?username=HyperNotAryanX97&show_icons=true&theme=tokyonight)
-
-# My information 📜
-
 </body>
 
 </html>
